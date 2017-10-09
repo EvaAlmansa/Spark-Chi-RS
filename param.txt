@@ -7,4 +7,4 @@ Number of Labels = 3
 T-norm = PRODUCT
 Rule Weight = Penalized_Certainty_Factor
 Fuzzy Reasoning Method = Winning_Rule
-Number of Evaluations = 5000
+Number of Evaluations = 5000 
