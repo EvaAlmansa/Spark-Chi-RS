@@ -1,7 +1,3 @@
-# Spark-Chi-RS
-
-Evolutionary Fuzzy Rule Selection for Big Data
-
 # Chi-Spark-RS: An Spark-built evolutionary fuzzy rule selection algorithm in imbalanced classification for big data problems
 
 Abstract:
